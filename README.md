@@ -19,7 +19,7 @@ install via the installer file :
 
 install via the terminal ( Termux ) file :
 1. `` ~ $ pkg install nodejs ``
-2. `` ~ $ node -v `` => ``
+2. `` ~ $ node -v ``
 
 ![Show Terminal](/file/terminal.png "Show Terminal")
 
