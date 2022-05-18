@@ -1,6 +1,7 @@
 # WhatsApp Bot ( Basic )
-------
-Whatsapp bot running using whatsapp web
+
+<p align="center">
+   Whatsapp bot running using whatsapp web
 
 ------
 # Setup & Tools
@@ -20,8 +21,8 @@ install via the installer file :
 install via the terminal ( Termux ) file :
 1. `` ~ $ pkg install nodejs ``
 2. `` ~ $ node -v ``
-
-![Show Terminal](/file/terminal.png "Show Terminal")
+<p align="center">
+   <img src="/file/terminal.png" width="400px">
 
 -----
 # How To Create [Npm Package.json](https://docs.npmjs.com/cli/v8/commands/npm-init)
@@ -29,7 +30,8 @@ install via the terminal ( Termux ) file :
 1. `` ~ $ cd /<direactory>/whatsapp-bot/ ``
 2. `` /<diractory/whatsapp-bot/ $ npm init``
 
-![Show Terminal](/file/terminal-1.png "Show Terminal")
+<p align="center">
+    <img src="/file/terminal-1.png" width="400px">
 
 -----
 # Simple Code
@@ -54,3 +56,10 @@ client.initialize();
 
 # Run Script ?
 - npm run start | test | dev
+or
+- check package.json
+
+# Version ?
+    
+| Version | Whats Is New ? | Link |
+|----|----|---|
